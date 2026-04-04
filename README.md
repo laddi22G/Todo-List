@@ -39,4 +39,3 @@ _Add screenshot here_
 
 ---
 
-## 📂 Folder Structure
