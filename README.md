@@ -5,19 +5,13 @@ This project demonstrates **CRUD operations**, state management, and dynamic UI 
 
 ---
 
-## 🌐 Live Demo
-👉 *(Add your deployed link here – e.g. Vercel / Netlify)*
-
----
-
 ## 📸 Screenshots
 
 ### 🏠 Home (Add Task)
-_Add screenshot here_
+![Home page](./src/util/Screenshot%202026-04-07%20123254.jpg.png)
 
 ### ✏️ Edit Task Mode
-_Add screenshot here_
-
+![Edit task](./src/util/Screenshot%202026-04-07%20123847.png)
 ---
 
 ## ✨ Features
